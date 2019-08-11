@@ -49,3 +49,4 @@ files/
 cnn/train
 rnn/aclImdb
 mnist_gan/.ipynb_checkpoints/
+Tutorial/
